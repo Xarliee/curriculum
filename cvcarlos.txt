@@ -1,0 +1,4 @@
+Nombre: Carlos Salas
+Profesión : Ing Comercial
+Edad: 27 años
+Estado civil: Soltero
