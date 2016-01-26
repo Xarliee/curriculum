@@ -6,3 +6,5 @@ Residencia : Santiago
 Educacion basica: Colegio San Joaquin
 Educacion Secundaria: Colegio Andres Bello pampa
 Educacion Profesional: Universidad de la Serena
+Ultimo trabajo : Servicio pais
+
